@@ -1,2 +1,2 @@
 # RackMaker
-Network/Server Rackdrawing program using C++ and Latex to produce PDF files.
+Network/Server rack drawing program using C++ and Latex to produce PDF files.
