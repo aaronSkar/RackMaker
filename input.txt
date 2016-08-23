@@ -1,0 +1,15 @@
+File Name: Test Rack-NET-RR1.01-2016-06-07
+Height[RU] Name: 42 Aaron Test Rack
+Rack Type: NET
+Rack Number: 1.01
+12 Name & Device 1  
+note Yes this is a note.  It can take up a whole bunch of space.  Notice how it fills extra lines as needed from the center and will maintain its centerness.  This will have to be limited to prevent over extension.
+5 space
+1 Device 2
+Notes another note but this should appear on the right side of the rack.
+2 space
+3 Device 3
+Notes Another test note.
+0 end
+Created Date: 2016-06-07
+Original Author: AJS

@@ -1,0 +1,6 @@
+June 8 2016
++++++ New Features +++++
+-Ampersand support added
+-file name through text input.
+  *First line of input.txt file is changed to the file name. Example of first line shown below.
+  *Ex. File Name: Test Rack-NET-RR1.01-2016-06-07
