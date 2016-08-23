@@ -1,2 +1,3 @@
 #RackMaker Dependencies
 - texlive-full
+- libboost-all-dev
